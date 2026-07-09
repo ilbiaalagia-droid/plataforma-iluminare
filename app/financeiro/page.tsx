@@ -1,0 +1,2 @@
+import Shell from '../components/Shell';
+export default function Financeiro(){return <Shell active="financeiro"><div className="top"><div><h2>Financeiro</h2><p>Entradas, saídas e fluxo de caixa</p></div></div><section className="section"><h3>Em construção</h3><p>Próximo módulo: financeiro real.</p></section></Shell>}

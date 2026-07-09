@@ -1,0 +1,2 @@
+import Shell from '../components/Shell';
+export default function Compras(){return <Shell active="compras"><div className="top"><div><h2>Compras</h2><p>Pedidos e recebimento de mercadorias</p></div></div><section className="section"><h3>Em construção</h3><p>Próximo módulo: lançar compras e atualizar estoque automaticamente.</p></section></Shell>}

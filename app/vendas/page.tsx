@@ -1,0 +1,2 @@
+import Shell from '../components/Shell';
+export default function Vendas(){return <Shell active="vendas"><div className="top"><div><h2>Vendas</h2><p>Vendas com baixa automática no estoque</p></div></div><section className="section"><h3>Em construção</h3><p>Próximo módulo: registrar vendas.</p></section></Shell>}

@@ -1,0 +1,2 @@
+import Shell from '../components/Shell';
+export default function Clientes(){return <Shell active="clientes"><div className="top"><div><h2>Clientes</h2><p>Cadastro e relacionamento</p></div></div><section className="section"><h3>Em construção</h3><p>Próximo módulo: cadastrar clientes e aniversários.</p></section></Shell>}

@@ -1,0 +1,2 @@
+import Shell from '../components/Shell';
+export default function Fornecedores(){return <Shell active="fornecedores"><div className="top"><div><h2>Fornecedores</h2><p>Contatos e histórico de compras</p></div></div><section className="section"><h3>Em construção</h3><p>Jacarandá, Encantos da Fé e fornecedor das velas.</p></section></Shell>}

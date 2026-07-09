@@ -1,0 +1,2 @@
+import Shell from '../components/Shell';
+export default function Estoque(){return <Shell active="estoque"><div className="top"><div><h2>Estoque</h2><p>Entrada, saída e reposição</p></div></div><section className="section"><h3>Em construção</h3><p>Próximo módulo: movimentações de estoque.</p></section></Shell>}

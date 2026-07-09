@@ -1,0 +1,2 @@
+import Shell from '../components/Shell';
+export default function Marketing(){return <Shell active="marketing"><div className="top"><div><h2>Marketing</h2><p>Conteúdos, posts, reels e calendário</p></div></div><section className="section"><h3>Em construção</h3><p>Vamos conectar produtos às fotos, legendas e publicações.</p></section></Shell>}

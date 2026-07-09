@@ -1,0 +1,2 @@
+import Shell from '../components/Shell';
+export default function IA(){return <Shell active="ia"><div className="top"><div><h2>IA Iluminare</h2><p>Assistente futura para gestão, atendimento e marketing</p></div></div><section className="section"><h3>Em construção</h3><p>Ideia futura: sugerir reposição, legendas, vitrines e respostas para clientes.</p></section></Shell>}
